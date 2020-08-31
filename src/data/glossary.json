@@ -1,0 +1,415 @@
+[
+  {
+    "word": "",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "",
+    "tags": ""
+  },
+  {
+    "word": "API Explorer",
+    "additionalMeaning:": "A reference tool to lookup props, slots, events, variables, functions, etc, pertaining to all components in the library.",
+    "commonUsageIfComponent": "",
+    "definition": "The API Explorer is used as a  reference tool in Vuetify to lookup features about the components. Examples of these features include details about color options, sizing, and more depending on the component.",
+    "tags": "reference"
+  },
+  {
+    "word": "Alerts",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "A common use of alerts is when an action has taken place or if the action has failed the alert would appear in the screen to provide a positive, informational or negative message.",
+    "definition": "Alerts attract the user’s attention with the purpose of communicating an important message.",
+    "tags": "component"
+  },
+  {
+    "word": "App",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "The <v-app> application component should only be used once and is REQUIRED in < Vue 3.X for all your projects. Most of the Vuetify components functionality rely on the v-app component. Since the <v-app> component wraps the <v-content> component this allows you to create interfaces and manages layout sizing.",
+    "tags": "component"
+  },
+  {
+    "word": "Aspect Ratio",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "Aspect Ratio is the width to the height of an image or screen.",
+    "tags": "Tie to blog post"
+  },
+  {
+    "word": "Avatars",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "An example of avatar usage includes using the avatar component to display a profile photo at the top of a navigation bar.",
+    "definition": "Avatars are used to communicate identity of an individual or business in the interface through an image (example: a profile photo) or a circle with initials.",
+    "tags": "component"
+  },
+  {
+    "word": "Chips",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "Chips are commonly used to filter keywords in a search.",
+    "definition": "Chips are small and compact elements that represent an input, attribute, or action.",
+    "tags": "component"
+  },
+  {
+    "word": "Cards",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "Cards are usually used when you want to group related information, this way users can scan quickly and take action from the content",
+    "definition": "Cards are used as containers to display specific content. A card can be interactive or can just hold text or other content.",
+    "tags": "component"
+  },
+  {
+    "word": "Badges",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "An example of Badges are used along with an avatar to indicate the count of items in a queue. For example: Unread messages",
+    "definition": "Badges are used as a decorative indicator to draw attention and display information - usually as a numeric value or an icon. Badges should not be clickable.",
+    "tags": "component"
+  },
+  {
+    "word": "Carousels",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "A common usage of Carousels are place in the top header of a website.",
+    "definition": "Carousels rotate large content with images or text.",
+    "tags": "component"
+  },
+  {
+    "word": "CLI",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "CLI Stands for command line interface. It reads lines of text that a computer program can run. In Vuetify, we use the CLI to download the library of code to your own (local) computers in order to have access to components (reusable code) to use in your project. You can also use the CLI to manage version control.",
+    "tags": "Tie to blog post, initialism"
+  },
+  {
+    "word": "Buttons",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "An example of where you might find a button would be in a dialog, modal, forms, cards, and toolbars.",
+    "definition": "Buttons are used to communicate actions that users can take.",
+    "tags": "component"
+  },
+  {
+    "word": "Dialogs",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "Dialogs are informative components, usually contains critical information, requires a decision, or may involve multiple tasks.",
+    "tags": "component"
+  },
+  {
+    "word": "Directives",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "In terms of what directives tell parts of your web page to do, it can include: click handlers, filters, and data-binding which are all important for creating interactive user interfaces.",
+    "definition": "Directives are tokens or attributes (typically can be seen with the 'v-' prefix) that can be attached to DOM elements (parts of your web page) and are able to tell that specific element what to do. This is a concept that was introduced in AngularJS, and further implemented in Vue.",
+    "tags": "Tie to blog post"
+  },
+  {
+    "word": "Forms - Input Controls",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "Forms are the most common component in the web.\nWhen a user enters data or is able to configure options and submitting them it is built as a form.",
+    "definition": "Forms are a group of labels and inputs fields.",
+    "tags": "component"
+  },
+  {
+    "word": "Groups",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "A common example are a group of chips components.",
+    "definition": "The group component provides a collection of elements that are related by context and functional state.",
+    "tags": "component"
+  },
+  {
+    "word": "Grid",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "Grids are often used in order to control the layout of your web page",
+    "definition": "A grid system is commonly used when you design the layout of a page. The most common Grid system count is a 12 column count. Is important to define a grid system in your projects since they can bring order and efficiency of the placement of elements and structural consistency throughout all your pages.",
+    "tags": "Tie to blog post, component"
+  },
+  {
+    "word": "Lists",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "An example of using a list component in your app includes a restaraunt menu that has multiple food items listed.",
+    "definition": "Lists are a continuous group of text or images. They are composed of items containing primary and supplemental actions, which are represented by icons and text.",
+    "tags": "component"
+  },
+  {
+    "word": "Hover",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "A common usage is similar to a CSS state hover allows you to make a change of the state of the component when the user hovers over with the mouse. Example: It could give elevation to a card.",
+    "definition": "The hover component allows you to add the hover state to any other Vuetify component.",
+    "tags": "component"
+  },
+  {
+    "word": "Lazy Loading",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "A common use of lazy loading is when user scrolls through a page elements would show as they scroll.",
+    "definition": "Lazy loading is a design pattern used to help with the efficiency and optimization of a website or web app by loading elements based on their visibility.",
+    "tags": "component"
+  },
+  {
+    "word": "Images",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "As a component in Vuetify, images are a way to easily display photos or other graphical assets you have showcase on your webpage",
+    "definition": "Images allow graphics and/or photos that can be displayed on a webpage",
+    "tags": "component"
+  },
+  {
+    "word": "Icons",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "Icons that Vuetify uses are pulled in from two separate sources: material design icons and material icons.  They can be used in your tool bars, footers, and within most other components acessible through Vuetify.",
+    "definition": "Icons symbolize common actions and items in an application. They can serve an illustrative purpose as a basic SVG (scalable vector graphic) or can be used to route (link) to different places in your application.",
+    "tags": "component"
+  },
+  {
+    "word": "Menu",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "Generally you will see menus used to give the user the ability to choice a specific action. An example could be \"enable messages\" but could also allow them to route to their message inbox within your application.",
+    "definition": "A menu displays a list of choices on a temporary surface. They appear when users interact with a button, action, or other control.",
+    "tags": "component"
+  },
+  {
+    "word": "Pickers - Color/Date/Time",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "An example of the date picker can be used in your application to select a birth date in a form component.",
+    "definition": "Pickers allows the user to select a single date from a date picker, a single color from a color picker, or select the time from the time picker.",
+    "tags": "component"
+  },
+  {
+    "word": "Progress - Circular/Linear",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "Progress indicators inform users about the status of ongoing processes, such as loading an app, submitting a form, or saving updates. They communicate the state of an app and indicate available actions, such as whether or not a user can navigate away from the current screen.",
+    "tags": "component"
+  },
+  {
+    "word": "Navigation Drawers",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "Navigation drawers provide access to destinations and app functionality. They can either be permanently on-screen or controlled by a navigation menu icon.",
+    "tags": "component"
+  },
+  {
+    "word": "Tabs",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "A common usage of tabs is when theres content displaying which is associated with the current highlighted tab while the other tabs remain grayed out.",
+    "definition": "Tabs are components used for organizing and navigating between content across various screens, data sets, or other interactions.",
+    "tags": "component"
+  },
+  {
+    "word": "Timelines",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "A common example of timelines can used for visual displays of things like a personal resume to indicate time and context. Additionally, timelines can be used to show an agenda breakdown for an event.",
+    "definition": "Timelines display information with labels through a vertical line in chronological order.",
+    "tags": "component"
+  },
+  {
+    "word": "Steppers",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "Steppers are great to use in your application if you need to collect client information that involves several input sections to help them indicate their completion rate of the form.",
+    "definition": "Steppers helps the user to show their progress through a number of steps. It indicates their current step, any upcoming steps and completed steps.",
+    "tags": "component"
+  },
+  {
+    "word": "Tables",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "A common usage of tables are when data is displayed in a tabular structure, similar to how you would see information organized in a spreadsheet.",
+    "definition": "Tables are used to structure and display data through a grid of columns and rows. This component helps the user to understand content through the structured format.",
+    "tags": "component"
+  },
+  {
+    "word": "Sparklines",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "Sparklines can be used similarly to line graphs when you need a visual display of graphical information.",
+    "definition": "Sparkline is a chart that provides a visual representation of data in the form of a graph.",
+    "tags": "component"
+  },
+  {
+    "word": "Ratings",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "Ratings can be used to display how good something is, such as a restaraunt or movie rating site.",
+    "definition": "Ratings are designed for users to indicate the quality or performance of a product or application.",
+    "tags": "component"
+  },
+  {
+    "word": "Subheaders",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "A common usage for subheaders are found in navigation menus",
+    "definition": "Subheaders are used to separate sections of multiple lists.",
+    "tags": "component"
+  },
+  {
+    "word": "Sheets",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "Sheets can be used similarly to cards to hold text, images, and other content on your application.",
+    "definition": "A Sheet is essentially a digital sheet of paper to be used as a low level component containing other components.",
+    "tags": "component"
+  },
+  {
+    "word": "Snackbars",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "A good example of where to use snackbars include when a user complete's an action such as updating their contact information. A quick message reading \"Contact Information Updated!\" can be displayed and timeout (go away) after a set time.",
+    "definition": "Snackbars are similar to pop-up notifications that do not prevent the client/user from interacting with the web page. You are able to decide the position on the webpage as well as enable timed removal from the page.",
+    "tags": "component"
+  },
+  {
+    "word": "Tool Tips",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "A common usage of a tooltip is when a user hovers over an icon and the tooltip would open to display helpful text.",
+    "definition": "Tooltips display informative text when activated by hovering over, focusing on, or tapping an element.",
+    "tags": "component"
+  },
+  {
+    "word": "Treeview",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "A common example of treeviews are menu bars, and they serve as a directory.",
+    "definition": "Treeview component displays nested (stacked within one another) data where each item can have subitems.",
+    "tags": "component"
+  },
+  {
+    "word": "Version Control",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "Version Control refers to a method of managing the files in a codebase. This includes saving specific versions (points in time) as well as the ability to revert to a past version if desired.",
+    "tags": "dev community term"
+  },
+  {
+    "word": "Yarn",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "Yarn is a package manager for javascript. Similar to npm in purpose of downloading the code to your computer/local environment through the CLI. Yarn is the preferred node package manager for Vuetify.",
+    "tags": "dev community term, initialism"
+  },
+  {
+    "word": "Webpack",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "Webpack groups (aka bundles) your js/css/html/imgs/etc. so that it can be run on your computer and on the browser.",
+    "tags": "dev community term"
+  },
+  {
+    "word": "Intersection Observer",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "The v-intersect directive in vuetify uses the intersection observer API.\nThe intersection observer makes it easy to detect the visibility of an element. Is commonly use for lazy loading of images or cotent as the user scrolls the page.",
+    "tags": "directive, subgroup"
+  },
+  {
+    "word": "Mutation Observer",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "A Mutation Observer is a built in object that observes a DOM(Document Object Model) element and fires a callback in case of changes.",
+    "tags": "directive, subgroup"
+  },
+  {
+    "word": "Resizing",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "The resize directive is used to call specific functions when the browser window resizes. This helps to change how or what elements can be displayed when the window change it sizes.",
+    "tags": "directive, subgroup"
+  },
+  {
+    "word": "Ripple",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "The ripple directive is used to show action from a user by simulating a ripple effect through a transition.",
+    "tags": "directive, subgroup"
+  },
+  {
+    "word": "Library",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "A library is a collection of code that can be used by one or many developers.  Generally speaking, it is not opinionated as a framework.",
+    "tags": "dev community term"
+  },
+  {
+    "word": "UI Component Library",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "A UI Component Library, such a Vuetify, is a library that implements specific design practices (material design) in the creation of reusable components that can set a solid baseline for consistent frontend development.",
+    "tags": "dev community term"
+  },
+  {
+    "word": "Framework",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "A framework in software engineering term used to provide a generic foundation for writing code for specific applications. It is similar to a library in that it is a often a collection of reusable code, however, a major difference is that frameworks are more opinionated - which means that there is often a set best practice when it comes to functions, routing, and other esssential aspects to create a dynamic application. VueJS is a JavaScript framework.",
+    "tags": "dev community term"
+  },
+  {
+    "word": "Git",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "Git is a version control system which is used in software development to track any changes of the source code from any files of the project. It is commonly used for collaboration and coordinating among engineers.",
+    "tags": "dev community term"
+  },
+  {
+    "word": "NPM",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "NPM stands for node package manager.  NPM is used to share software or open source code with other developers and is a method of downloading code to your local environment via the CLI. It is the world's largest software registry.",
+    "tags": "initialism"
+  },
+  {
+    "word": "Skeleton Loaders",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "A great place to use skeleton loaders in your application is when there is data you need to pull from an API/database or an image that may take a moment to load on the client side. This will let the client know the web page is working, it just may take a moment to display the requested data.",
+    "definition": "Loaders are used to communicate to the user that something is about to happen. In this case skeleton loaders indicate to the user the placement of the element that is coming / loading but isnt ready yet. Helps the user to visualize which elements are about to show.",
+    "tags": "component"
+  },
+  {
+    "word": "Parallax",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "A common use of parallax's can be at the top of a page similar to a hero or jumbotron used in bootstrap.",
+    "definition": "Parallax is a component used in Vuetify to allow an image to have a 3D effect of appearing to scroll slower than the window when a user scrolls down the page.",
+    "tags": "component"
+  },
+  {
+    "word": "Component",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "Components are interactive building blocks to assist in creating a UI - Think of them like a lego piece that helps you build an overall lego structure.",
+    "tags": "Vue"
+  },
+  {
+    "word": "Props",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "Props (properties) in Vue are a way to pass data from a parent component to a child component. If any property is updated from the parent component, it will pass down that change, or more specifically that all child components would update and refresh their properities as well.",
+    "tags": "Vue, dev community term"
+  },
+  {
+    "word": "Event",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "Events are Javascript's way to interact with the HTML. When a user manipulates the page through a click of a button, resizing the window, pressing any key these are all events.",
+    "tags": "Vue, dev community term"
+  },
+  {
+    "word": "Slots",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "A slot is part of the web components technology is also a named position within your code. It allows you to insert an element inside your component.",
+    "tags": "Vue, dev community term"
+  },
+  {
+    "word": "Activator",
+    "additionalMeaning:": "Slot used for component such as v-dialog and v-menu, to toggle component state.",
+    "commonUsageIfComponent": "",
+    "definition": "Activator are used in Vuetify for accessibility purposes by giving attributes to the component that makes it accessible to the user.",
+    "tags": ""
+  },
+  {
+    "word": "SASS Variable",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "SASS stands for Syntactically Awesome Style Sheets. Sass is an extension of cascading style sheets (CSS). SASS variables are used to store information, such as strings and numbers. These variables are reusable throughout your SASS files and used them as CSS values.",
+    "tags": "dev community term, initialism"
+  },
+  {
+    "word": "Transitions",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "The Transition directive applies effects to elements when they are inserted or removed from the DOM. Vue.js handles automatically adding or removing any CSS classes that triggers any CSS transitions or animations.",
+    "tags": "Vue, component, dev community term"
+  },
+  {
+    "word": "Flex",
+    "additionalMeaning:": "",
+    "commonUsageIfComponent": "",
+    "definition": "Flexbox allows you to build responsive layouts on the web with CSS.",
+    "tags": "dev community term"
+  }
+]
